@@ -1,0 +1,15 @@
+Este proyecto esta echo con fines educativos para poder preacticar
+ejercicios de programacion en el lenguaje c# siguiendo las siguientes
+indicaciones
+
+/*
+ * Escribe un programa que muestre por consola (con un print) los
+ * números de 1 a 100 (ambos incluidos y con un salto de línea entre
+ * cada impresión), sustituyendo los siguientes:
+ * - Múltiplos de 3 por la palabra "fizz".
+ * - Múltiplos de 5 por la palabra "buzz".
+ * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+ */
+
+crisrod25@gmail.com
+crisrod25@live.com
